@@ -15,7 +15,7 @@ Click on "Upload File". Upload the file [RealSDC-main.zip](https://github.com/jc
 Unzip the file `RealSDC-main.zip`.
 Go to the directory `RealSDC-main`.
 Execute the script `install_code.sh`.
-How? Use these commands:
+How? Use these commands in the terminal:
 
 ```
 unzip RealSDC-main.zip
