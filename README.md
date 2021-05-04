@@ -79,6 +79,9 @@ Enjoy the automatic ride.
 
 # Demo
 
+If you follow the instructions correctly, you should be able to see a
+simulation like this:
+
 **Programming a Real Self-Driving Car<br/>
 https://youtu.be/qocT3uHOLaA**
 <img src='images/demo.png'/>
