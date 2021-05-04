@@ -70,9 +70,7 @@ Click on `OK`.
 Select the Highway track.
 Activate the Camera.
 Deactivate Manual.
+Zoom out the scene by rolling down your mouse wheel.
 Enjoy the automatic ride.
-
-
-
 
 # Demo
