@@ -74,3 +74,13 @@ Zoom out the scene by rolling down your mouse wheel.
 Enjoy the automatic ride.
 
 # Demo
+
+# Backup Workspace Files
+
+If you modified some files in your Udacity workspace and you want to backup the
+modifications, execute these commands in a terminal of your workspace:
+
+```
+cd /home/workspace/RealSDC-main/code/
+sh backup_workspace_files.sh
+```
