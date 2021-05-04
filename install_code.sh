@@ -20,3 +20,11 @@ cp code/$twist_controller $twist_controller_path
 cp code/$tl_detector $tl_detector_path
 cp code/$tl_classifier $tl_classifier_path
 cp code/$model $model_path
+
+echo "FILES COPIED:"
+ls $wp_updater_path
+ls $dbw_node_path
+ls $twist_controller_path
+ls $tl_detector_path
+ls $tl_classifier_path
+ls $model_path
