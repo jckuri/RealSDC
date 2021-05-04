@@ -2,4 +2,6 @@
 
 # Installation Instructions
 
+Install Python
+
 # Demo
