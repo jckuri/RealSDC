@@ -39,13 +39,13 @@ click on `ENABLE`.
 
 Click on `GO TO DESKTOP`, the blue button at the bottom right corner.
 
-Open a terminal and type:
+Open a Terminator and type:
 
 ```
 roscore
 ```
 
-Open another terminal and type:
+Open another Terminator and type:
 
 ```
 cd ros
