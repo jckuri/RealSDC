@@ -38,6 +38,7 @@ If the GPU is not enabled, go to the GPU panel at the bottom left corner and
 click on `ENABLE`.
 
 Click on `GO TO DESKTOP`, the blue button at the bottom right corner.
+Go to the Desktop that was just opened.
 
 Open a Terminator and type:
 
