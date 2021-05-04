@@ -1,6 +1,6 @@
 # Programming a Real Self-Driving Car
 
-# Installation Instructions
+# Installation
 
 Go to the Udacity workspace of the project [Programming a Real Self-Driving Car](https://classroom.udacity.com/nanodegrees/nd013/parts/01a340a5-39b5-4202-9f89-d96de8cf17be/modules/1dc566d7-03d4-40da-af2c-b8ec85f2e4dd/lessons/e43b2e6d-6def-4d3a-b332-7a58b847bfa4/concepts/51c2ea21-5317-4bbd-ab82-047e5fd6849b).
 Click on Menu. Click on `Reset Data...`. 
@@ -31,5 +31,48 @@ FILES COPIED:
 /home/workspace/CarND-Capstone/ros/src/tl_detector/light_classification/tl_classifier.py
 /home/workspace/CarND-Capstone/ros/src/tl_detector/light_classification/frozen_inference_graph.pb
 ```
+
+# Usage
+
+If the GPU is not enabled, go to the GPU panel at the bottom left corner and
+click on `ENABLE`.
+
+Click on `GO TO DESKTOP`, the blue button at the bottom right corner.
+
+Open a terminal and type:
+
+```
+roscore
+```
+
+Open another terminal and type:
+
+```
+cd ros
+catkin_make
+source devel/setup.sh
+roslaunch launch/styx.launch
+```
+
+Once you launch the process, many messages should appear. 
+You should not see any error. Otherwise, you did something wrong.
+At the end, you should see the INFO log message:
+
+```
+[INFO] [ ]: TRAFFIC LIGHT CLASSIFIER WAS LOADED SUCCESSFULLY.
+```
+
+Click on the icon `Capstone Simulator` located in the Desktop.
+Set the screen resolution to `640 x 480`.
+Set the Graphics Quality to `Fastest`.
+Click on `OK`.
+
+Select the Highway track.
+Activate the Camera.
+Deactivate Manual.
+Enjoy the automatic ride.
+
+
+
 
 # Demo
