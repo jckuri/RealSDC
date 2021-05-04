@@ -4,9 +4,9 @@
 
 Install Python
 
-Go to the Udacity workspace of the project "Programming a Real Self-Driving Car".
-Click on Menu. Click on "Reset Data...". 
-Type "reset data" and click on "RESET DATA".
+Go to the Udacity workspace of the project `Programming a Real Self-Driving Car`.
+Click on Menu. Click on `Reset Data...`. 
+Type `reset data` and click on `RESET DATA`.
 
 Click on the `+` sign in the left panel where the directory structure is.
 Click on "Upload File". Upload the file `RealSDC-main.zip` in the directory `/home/workspace`.
