@@ -75,6 +75,8 @@ Enjoy the automatic ride.
 
 # Demo
 
+YouTube
+
 # Backup Workspace Files
 
 If you modified some files in your Udacity workspace and you want to backup the
@@ -84,3 +86,5 @@ modifications, execute these commands in a terminal of your workspace:
 cd /home/workspace/RealSDC-main/code/
 sh backup_workspace_files.sh
 ```
+
+Then, download the resulting file `/home/workspace/RealSDC-BACKUP.zip`.
