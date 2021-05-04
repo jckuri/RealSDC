@@ -2,8 +2,6 @@
 
 # Installation Instructions
 
-Install Python
-
 Go to the Udacity workspace of the project `Programming a Real Self-Driving Car`.
 Click on Menu. Click on `Reset Data...`. 
 Type `reset data` and click on `RESET DATA`.
@@ -33,6 +31,5 @@ FILES COPIED:
 /home/workspace/CarND-Capstone/ros/src/tl_detector/light_classification/tl_classifier.py
 /home/workspace/CarND-Capstone/ros/src/tl_detector/light_classification/frozen_inference_graph.pb
 ```
-
 
 # Demo
