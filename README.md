@@ -79,7 +79,9 @@ Enjoy the automatic ride.
 
 # Demo
 
-YouTube
+**Programming a Real Self-Driving Car<br/>
+https://youtu.be/qocT3uHOLaA**
+<img src='images/demo.png'/>
 
 # Backup Workspace Files
 
